@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: /default
 title: Settings
 nav_order: 1
 ---
